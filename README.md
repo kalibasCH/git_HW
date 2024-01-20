@@ -1,4 +1,3 @@
-# git_HW
 # Основы GIT
 
 Сначала создаем новую ветку git branch [name] потом переходим на нее git checkout [name] и коммитим туда
